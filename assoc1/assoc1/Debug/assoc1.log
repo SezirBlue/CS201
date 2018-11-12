@@ -1,0 +1,5 @@
+﻿  assoc.cpp
+c:\users\james\source\repos\assoc1\assoc1\assoc.cpp(144): warning C4018: '>': signed/unsigned mismatch
+c:\users\james\source\repos\assoc1\assoc1\assoc.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\james\source\repos\assoc1\assoc1\assoc.cpp(198): warning C4018: '<': signed/unsigned mismatch
+  assoc1.vcxproj -> C:\Users\James\source\repos\assoc1\Debug\assoc1.exe

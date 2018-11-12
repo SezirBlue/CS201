@@ -1,0 +1,3 @@
+﻿  gcd.cpp
+c:\users\james\source\repos\gcd.cpp\gcd.cpp\gcd.cpp(73): warning C4715: 'calc': not all control paths return a value
+  gcd.cpp.vcxproj -> C:\Users\James\source\repos\gcd.cpp\Debug\gcd.cpp.exe

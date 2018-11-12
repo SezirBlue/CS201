@@ -1,0 +1,3 @@
+﻿  lab8.cpp
+c:\users\james\source\repos\lab_9_17\lab_9_17\lab8.cpp(28): warning C4715: 'compute': not all control paths return a value
+  Lab_9_17.vcxproj -> C:\Users\James\source\repos\Lab_9_17\Debug\Lab_9_17.exe

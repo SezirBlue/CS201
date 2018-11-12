@@ -1,0 +1,5 @@
+﻿  boxPrint.cpp
+  boxer.cpp
+c:\users\james\source\repos\boxer\boxer\boxer.cpp(72): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  boxer.vcxproj -> C:\Users\James\source\repos\boxer\Debug\boxer.exe
