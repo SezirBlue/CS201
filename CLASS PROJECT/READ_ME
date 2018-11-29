@@ -1,0 +1,20 @@
+This program will find each instance of a specified string of characters in a file and replace them with another specied string.
+
+BEFORE you use:: 
+
+The file that you are going to be searching must be in the same folder as the program executable, 
+make sure you take note of file types or extentions as these must be included in the file name.
+
+INSTRUCTIONS::
+
+	run the program (it will open in a terminal window)
+
+	when prompted enter the name of the file to edit
+
+	when prompted enter the string to find
+
+	when prompted enter the string to insert
+
+close terminal
+
+

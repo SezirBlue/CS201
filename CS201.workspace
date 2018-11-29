@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CS201" Database="" Version="10.0.0">
-  <Project Name="hellow" Path="hellow/hellow.project" Active="Yes"/>
+  <Project Name="classes" Path="classes/classes.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
-      <Project Name="hellow" ConfigName="Debug"/>
+      <Project Name="classes" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
-      <Project Name="hellow" ConfigName="Release"/>
+      <Project Name="classes" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
